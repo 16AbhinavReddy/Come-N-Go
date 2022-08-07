@@ -1,0 +1,56 @@
+.nav{
+    background-color: yellowgreen;
+    position: relative;
+}
+.nav-elem{
+    color:white;
+    position: absolute;
+    text-decoration: none;
+    left: 15rem;
+    top: 3.2rem;
+    font-size: large;
+}
+.abt-link{
+    font-size: large;
+    left: 20rem;
+}
+
+.cnt-link{
+    font-size: large;
+    left: 26rem;
+}
+.plc-link{
+    font-size: large;
+    left: 33rem;
+}
+.prc-link{
+    left: 38rem;
+}
+.stf-link{
+    font-size: large;
+    left: 43rem;
+}
+.about{
+    font-size: xx-large;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-weight: bolder;
+}
+.txt{
+    font-size: large;
+}
+.whyus{
+    font-size: x-large;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-weight: bold;
+}
+body{
+    background-image: url("Background Image.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.details{
+    font-size: x-large;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-weight: bold;
+}
